@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11 or higher
 - Django
 - Any other dependencies listed in `requirements.txt`
 
