@@ -12,10 +12,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. **Clone the repository and move to the master branch folder:**
+1. **Clone the repository's master folder:**
 
     ```sh
-    git clone https://github.com/Yrk-Yashraj/Online_Voting-Django.git
+    git clone https://github.com/Yrk-Yashraj/Online_Voting-Django/master.git
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
